@@ -1,0 +1,42 @@
+/* #game{
+    background-color: black;
+    border-radius: 15px;
+}
+
+#userSelection
+{
+    text-align: center;
+    padding: 30px;
+    margin: 10px; 
+}
+
+#result
+{
+    text-align: center;
+    padding: 30px;
+    font-size: 1.2em;
+}
+
+.selection
+{
+	float: left; 
+	list-style: none; 
+        border: 5px #F8F8F8  solid;
+        border-radius: 15px;
+        margin: 30px; 
+}
+
+.selection img
+{
+	width: 70px; 
+        padding: 10px;
+}
+
+button
+{
+        background-color: #990066;
+        color: white;
+	border-radius: 10px;
+	font-size: 100%;
+}
+ */
